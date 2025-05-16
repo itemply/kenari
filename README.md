@@ -1,2 +1,0 @@
-# kenari
-unblocker for school
